@@ -1,1 +1,1 @@
-# Fine-grained image generation with decoupled attributes
+# **Fine-grained image generation with decoupled attributes**
